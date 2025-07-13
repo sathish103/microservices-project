@@ -131,13 +131,13 @@ cd microservice
 🔹 2. List all remote branches
 ```bash
 git branch -r
-```
-You’ll see:
+
+#You’ll see:
 origin/main
 origin/cartservice
 origin/shippingservice
 origin/productcatalogservice
-...
+```
 
 3. Checkout each remote branch one by one
 ```bash
