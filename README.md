@@ -105,12 +105,10 @@ echo "✅ Setup Complete!"
 # Jenkins plugins install
 ```bash
  Docker: Enables Jenkins to use Docker containers. 
- Docker Pipeline: Allows Jenkins to use Docker containers in pipeline 
-jobs. 
+ Docker Pipeline: Allows Jenkins to use Docker containers in pipeline jobs. 
  Kubernetes: Provides support for Kubernetes in Jenkins. 
  Kubernetes CLI: Allows Jenkins to interact with Kubernetes clusters. 
- Multibranch Scan Webhook Trigger: Adds webhook trigger functionality 
-for multibranch projects.
+ Multibranch Scan Webhook Trigger: Adds webhook trigger functionality for multibranch projects.
  pipeline stage view
 
 ```
