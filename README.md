@@ -111,6 +111,8 @@ jobs.
  Kubernetes CLI: Allows Jenkins to interact with Kubernetes clusters. 
  Multibranch Scan Webhook Trigger: Adds webhook trigger functionality 
 for multibranch projects.
+ pipeline stage view
+
 ```
 
 # Setup the credendtial in Manage jenkins- UI
